@@ -1,0 +1,11 @@
+.bar{
+     width: 100%;
+     display: flex;
+     justify-content: space-between;
+     padding: 0.4vmax 1vmax ;
+     background-color: #49C5B6;
+}
+
+.links{
+    size: 0.5vmax;
+}

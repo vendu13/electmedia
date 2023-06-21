@@ -1,0 +1,11 @@
+
+.bodynavtext{
+    font-size: 1.2vmax;
+    /* color:rgba(27, 27, 27, 0.947); */
+    color:'red';
+    margin-right: 3vmax;
+    /* justify-content: space-around ;
+    align-items: center;
+    /* background-color: bisque; */
+    /* margin-top: 0.5vmax;  */
+}
